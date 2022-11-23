@@ -1,0 +1,8 @@
+.task_container {
+  background-color: royalblue;
+}
+
+.done {
+  background-color: salmon;
+  text-decoration: line-through;
+}
